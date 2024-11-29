@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zain-Sanwar-Ahmed
-- 👀 I’m interested in anything to do with the World Wide Web
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in anything to do with Web Development
+- 🌱 I’m currently learning MERN Stack, as well as Python and Django
 - 💞️ I’m looking to collaborate on front-end projects for the time being
 - 📫 How to reach me: https://www.linkedin.com/in/zain-sanwar-ahmed-6562291ab/
 
